@@ -1,0 +1,92 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "connectionTimeout": 30,
+            "database": "mobvip-massas",
+            "dialect": "PostgreSQL",
+            "name": "Massas Postgres 9.2",
+            "password": "vi7700",
+            "port": 5433,
+            "server": "127.0.0.1",
+            "username": "postgres"
+        },
+        {
+            "askForPassword": false,
+            "connectionTimeout": 30,
+            "database": "teste",
+            "dialect": "PostgreSQL",
+            "name": "Teste Postgres 9.2",
+            "password": "vi770",
+            "port": 5433,
+            "server": "127.0.0.1",
+            "username": "postgres"
+        },
+        {
+            "askForPassword": false,
+            "connectionTimeout": 30,
+            "database": "mobvip-jair",
+            "dialect": "PostgreSQL",
+            "name": "Jair Postgres 9.0",
+            "password": "vi7700",
+            "port": 5432,
+            "server": "127.0.0.1",
+            "username": "postgres"
+        },
+        {
+            "askForPassword": false,
+            "connectionTimeout": 30,
+            "database": "teste",
+            "dialect": "PostgreSQL",
+            "name": "Teste Postgres 9.0",
+            "password": "vi7700",
+            "port": 5432,
+            "server": "127.0.0.1",
+            "username": "postgres"
+        },
+        {
+            "askForPassword": false,
+            "connectionTimeout": 30,
+            "database": "teste",
+            "dialect": "PostgreSQL",
+            "name": "Teste Postgres 9.4",
+            "password": "vi7700",
+            "port": 5433,
+            "server": "127.0.0.1",
+            "username": "postgres"
+        },
+        {
+            "askForPassword": false,
+            "connectionTimeout": 30,
+            "database": "teste",
+            "dialect": "PostgreSQL",
+            "name": "Teste Postgres 9.4",
+            "password": "vi7700",
+            "port": 5434,
+            "server": "127.0.0.1",
+            "username": "postgres"
+        },
+        {
+            "askForPassword": false,
+            "connectionTimeout": 30,
+            "database": "mobvip-massas",
+            "dialect": "PostgreSQL",
+            "name": "Massas Postgres 9.2",
+            "password": "vi7700",
+            "port": 5433,
+            "server": "127.0.0.1",
+            "username": "postgres"
+        },
+        {
+            "askForPassword": false,
+            "connectionTimeout": 30,
+            "database": "mobvip-massas",
+            "dialect": "PostgreSQL",
+            "name": "Massas Postgres 9.2 (viggo)",
+            "password": "vi7700",
+            "port": 5433,
+            "server": "192.168.4.4",
+            "username": "postgres"
+        }
+    ]
+}
