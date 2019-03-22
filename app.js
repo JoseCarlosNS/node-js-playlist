@@ -9,7 +9,7 @@ var app = express();
 app.set('view engine', 'ejs');
 
 // Mapping any static files to the public folder
-app.use(express.static('./public'));
+app.use('/assets', express.static('./public/assets'));
 
 // Fire controllers
 todoController(app);
@@ -17,4 +17,3 @@ todoController(app);
 // Configure server to listen to port 3000
 app.listen(3000);
 console.log('Listening to port 3000...');
-
